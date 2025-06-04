@@ -1,1 +1,1 @@
-##This bucket contains publicly accessible documents and images, including my personal portfolio photos, certificates, project files, and other non-sensitive materials intended for public sharing and reference.
+*** This bucket contains publicly accessible documents and images, including my personal portfolio photos, certificates, project files, and other non-sensitive materials intended for public sharing and reference.
